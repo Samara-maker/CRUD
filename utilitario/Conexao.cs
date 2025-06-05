@@ -19,7 +19,7 @@ namespace CRUD.utilitario
         {
             try
             {
-                string strconexao = "serve:localhost;uid=root;pwd=root;database=FitnessTraining";
+                string strconexao = "server=localhost;uid=root;pwd=root;port=3360;database=FitnessTraining";
                 conexao = new MySqlConnection(strconexao);
                 conexao.Open();
                 return conexao;

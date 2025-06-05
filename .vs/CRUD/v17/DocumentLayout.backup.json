@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Aluno.cs",
+              "RelativeDocumentMoniker": "mapeamento\\Aluno.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Aluno.cs",
+              "RelativeToolTip": "mapeamento\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:48:38.553Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +44,7 @@
               "RelativeDocumentMoniker": "utilitario\\Conexao.cs",
               "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\utilitario\\Conexao.cs",
               "RelativeToolTip": "utilitario\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T01:30:06.018Z",
               "EditorCaption": ""
@@ -41,9 +57,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T01:04:13.262Z"
+              "WhenOpened": "2025-06-05T01:04:13.262Z",
+              "EditorCaption": ""
             }
           ]
         }
