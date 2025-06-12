@@ -10,12 +10,12 @@ namespace CRUD.mapeamento
     internal class Aluno
     {
 
-        public string id_aluno;
+        public int id_aluno;
         public string nome;
         public string CPF;
-        public DateTime DataNasc;
+        public DateOnly DataNasc;
         public string sexo;
-        public string altura;
+        public double altura;
         public string telefone;
 
 
