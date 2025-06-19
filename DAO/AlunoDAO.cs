@@ -7,10 +7,12 @@ using CRUD.mapeamento;
 using MySql.Data.MySqlClient;
 using CRUD.utilitario;
 using Org.BouncyCastle.Crypto.Digests;
+using CRUD.DAO;
+using CRUD.Interface;
 
 namespace CRUD.DAO
 {
-    internal class AlunoDAO
+    internal class AlunoDAO:IDAO<Aluno>
     {
 
         public void Cadastrar(Aluno aluno)

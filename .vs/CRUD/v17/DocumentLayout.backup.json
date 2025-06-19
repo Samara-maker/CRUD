@@ -7,16 +7,40 @@
       "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\dao\\planodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:dao\\planodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\mapeamento\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:mapeamento\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\mapeamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:mapeamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\utilitario\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:utilitario\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|c:\\users\\2024102060004\\onedrive\\poo (2)\\poo\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09045F08-E8F5-4843-B2C1-919E5B67C0AE}|CRUD.csproj|solutionrelative:crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AlunoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\AlunoDAO.cs",
-              "RelativeDocumentMoniker": "DAO\\AlunoDAO.cs",
-              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\AlunoDAO.cs",
-              "RelativeToolTip": "DAO\\AlunoDAO.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFQAAAAhAAAAAAAAAA==",
+              "Title": "PlanoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\PlanoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\PlanoDAO.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\PlanoDAO.cs",
+              "RelativeToolTip": "DAO\\PlanoDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T23:37:27.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Aluno.cs",
-              "RelativeDocumentMoniker": "mapeamento\\Aluno.cs",
-              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Aluno.cs",
-              "RelativeToolTip": "mapeamento\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T01:48:38.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\utilitario\\Conexao.cs",
-              "RelativeDocumentMoniker": "utilitario\\Conexao.cs",
-              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\utilitario\\Conexao.cs",
-              "RelativeToolTip": "utilitario\\Conexao.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T01:30:06.018Z"
+              "WhenOpened": "2025-06-19T00:07:27.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,11 +75,115 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswE0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T01:04:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plano.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Plano.cs",
+              "RelativeDocumentMoniker": "mapeamento\\Plano.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Plano.cs",
+              "RelativeToolTip": "mapeamento\\Plano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:07:54.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Funcionario.cs",
+              "RelativeDocumentMoniker": "mapeamento\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Funcionario.cs",
+              "RelativeToolTip": "mapeamento\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T23:40:11.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\AlunoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\AlunoDAO.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\AlunoDAO.cs",
+              "RelativeToolTip": "DAO\\AlunoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:37:27.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Aluno.cs",
+              "RelativeDocumentMoniker": "mapeamento\\Aluno.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\mapeamento\\Aluno.cs",
+              "RelativeToolTip": "mapeamento\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:48:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuncionarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\FuncionarioDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\FuncionarioDAO.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\DAO\\FuncionarioDAO.cs",
+              "RelativeToolTip": "DAO\\FuncionarioDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T23:33:27.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\Interface\\IDAO.cs",
+              "RelativeDocumentMoniker": "Interface\\IDAO.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\Interface\\IDAO.cs",
+              "RelativeToolTip": "Interface\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T23:19:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\utilitario\\Conexao.cs",
+              "RelativeDocumentMoniker": "utilitario\\Conexao.cs",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\utilitario\\Conexao.cs",
+              "RelativeToolTip": "utilitario\\Conexao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:30:06.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CRUD",
+              "DocumentMoniker": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\CRUD.csproj",
+              "RelativeDocumentMoniker": "CRUD.csproj",
+              "ToolTip": "C:\\Users\\2024102060004\\OneDrive\\POO (2)\\POO\\CRUD\\CRUD.csproj",
+              "RelativeToolTip": "CRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T23:16:23.474Z",
               "EditorCaption": ""
             }
           ]
